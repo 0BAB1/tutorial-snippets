@@ -1,0 +1,12 @@
+11:39:20 INFO  : updated workspace path: 
+11:39:20 INFO  : updated workspace path: 
+11:39:20 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//repo.py -st  /tools/Xilinx/Vitis/2023.2/data/embeddedsw && deactivate
+11:39:23 INFO  : Successfully created repository data at /tmp/rigel_lopper_rootmin271424871968596050
+11:39:23 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_rootmin16754768165356709997 -r /tmp/rigel_lopper_rootmin271424871968596050/.repo.yaml && deactivate
+11:39:24 INFO  : Embedded Template List generated successfully
+11:39:24 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//repo.py -st  /tools/Xilinx/Vitis/2023.2/data/embeddedsw && deactivate
+11:39:26 INFO  : Successfully created repository data at /tmp/rigel_lopper_rootmin18394941813005351025
+11:39:26 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_rootmin11867999936116457041 -r /tmp/rigel_lopper_rootmin18394941813005351025/.repo.yaml && deactivate
+11:39:27 INFO  : Embedded Template List generated successfully
+11:39:41 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//repo.py -st  /tools/Xilinx/Vitis/2023.2/data/embeddedsw && deactivate
+11:39:41 INFO  : created .gitignore file for the project /home/rootmin/Documents/VIVADO_projects/project_axi_ip

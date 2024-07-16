@@ -30,6 +30,7 @@ In the video's directory you will find:
 - Verilog code for the AXI protocol handler in which we add our submodule
 - Verilog code for the submodule
 - Constraint file to "link" the IP's output to the LED's pin
+- The main.c file for the sofware part
 
 ## Ressources
 
