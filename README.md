@@ -38,6 +38,10 @@ In the video's directory you will find:
 - [Xilinx AXI VIP, use it for your projects & access testbenches](https://www.xilinx.com/video/hardware/how-to-use-axi-verification-ip-to-verify-debug-design-using-simulation.html)
 - [A reddit post I made when I was stuggling on AXI](https://www.reddit.com/r/FPGA/comments/1dbtp6r/problems_implementing_basic_ips_on_axi_lite/)
 
+# 3 : An introduction to HDLs
+
+[Video](https://www.youtube.com/watch?v=9wNddNaA_1o)
+
 ## Code
 
 In the video's directory you will find:
