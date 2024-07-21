@@ -37,3 +37,12 @@ In the video's directory you will find:
 - [Xilinx AXI VIP as a master to verify your IP](https://support.xilinx.com/s/article/1058302?language=en_US)
 - [Xilinx AXI VIP, use it for your projects & access testbenches](https://www.xilinx.com/video/hardware/how-to-use-axi-verification-ip-to-verify-debug-design-using-simulation.html)
 - [A reddit post I made when I was stuggling on AXI](https://www.reddit.com/r/FPGA/comments/1dbtp6r/problems_implementing_basic_ips_on_axi_lite/)
+
+## Code
+
+In the video's directory you will find:
+- just the basic hdl and constraints so you have a basic template
+
+## Ressources
+
+- [F4PGA : Some open source stuff do do synthesis](https://f4pga.org/)
