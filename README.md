@@ -21,7 +21,7 @@ I really suggest your read "the Zynq book" for more informations :
 
 # 2 : AXI IP, Hello world & custom LED driver
 
-[Video](https://www.youtube.com/@BRH_SoC)
+[Video](https://www.youtube.com/watch?v=zJJTxOT37K4)
 
 ## Code
 
