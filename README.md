@@ -72,7 +72,7 @@ IMPORTANT NOTE : do not use xil_printf() but rather printf() to handle the displ
 
 - [Video inspired by this LAB, I strongly recommend you check out the others (even tho the sound quality is not great)](https://www.youtube.com/watch?v=6OU0ASEIUJg)
 
-# 4 : Quick Petalinux Example for Zynq
+# 5 : Quick Petalinux Example for Zynq
 
 Summer is here ! Lighthearted video, more or less entertainement but keeping in mind the objective of delivering fast and technicals infos for you to enjoy !
 
