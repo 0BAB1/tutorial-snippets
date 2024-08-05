@@ -30,3 +30,12 @@ ifconfig
 ssh petalinux@your.board.ip
 
 # on your main machine
+# you can also test access to diferrent adresses with
+ping ip.address
+
+# I've got some feedback with ping : bad adress Error.
+# try 192.168.1.1 (your home router most of the time)
+# If this does not work refer to these posts:
+# https://support.xilinx.com/s/question/0D52E00006hpTKeSAM/petalinux-201310-can-ping-outside-web-site?language=en_US
+# https://support.xilinx.com/s/question/0D52E00006hpRxBSAU/petalinux-build-ethernet-not-working-cannot-ping?language=en_US
+# As you can see, these bugs are sometimes pretty hard to troubleshoot, so start a discussion if you need deeper troubleshooting.
