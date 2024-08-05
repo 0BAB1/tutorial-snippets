@@ -89,6 +89,7 @@ IMPORTANT NOTE : do not use xil_printf() but rather printf() to handle the displ
 ## Ressources
 
 - [Learn a LOT more on Linux for embedded application and FPGA on the Zynq book PDF (from page 385 chapter 22 to chapter 24)](https://is.muni.cz/el/1433/jaro2015/PV191/um/The_Zynq_Book_ebook.pdf)
+- [Download Petalinux Here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html)
 
 Here are the topics covered in this ressource :
 
