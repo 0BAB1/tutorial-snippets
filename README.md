@@ -6,6 +6,13 @@ I will also link all the very interesting ressources i talk about in my videos, 
 
 I suggest that you go and check wikipedia for each subject you struggle with as it always offers a nice overview, which is nice to start with a right mindset.
 
+# Table of Contents
+1. [ZynQ in two minutes](#zynq-in-two-minutes)
+2. [AXI IP, Hello world & custom LED driver](#axi-ip-hello-world-custom-led-driver)
+3. [An introduction to HDLs](#introduction-to-hdls)
+4. [DMA Tutorial with an FFT IP](#dma-tutorial-fft-ip)
+5. [Quick Petalinux Example for Zynq](#quick-petalinux-example-zynq)
+
 # 1 : ZynQ in two minutes
 
 [Video](https://www.youtube.com/watch?v=DQHTSelupDs)
@@ -98,3 +105,21 @@ Here are the topics covered in this ressource :
 - Chapter 24 _Linux booting_ : FSBL, SSBL, U-BOOT etc... are discussed
 
 Combined with the video, this 1 hour read should give you a great overview on Linux for embedded solution in no time (in 1/2 day of learning, worth it) !
+
+# 8 : Python AI Model to fpga
+
+THANK YOU SO MUCH for the success of the intro video !!! But now, Let's get serious : time for the actual tutorial, and it's a BIG one !
+
+[Video](https://www.youtube.com/@BRH_SoC)
+
+## Code
+
+In the video's directory you will find:
+
+- ALL THE RESSOURCES
+
+> This video is a big one, It has it's own [Readme file](./8%20Python%20to%20FPGA//README.md). See you there guys !
+
+## Ressources
+
+C.f. the [Readme file](./8%20Python%20to%20FPGA//README.md).
