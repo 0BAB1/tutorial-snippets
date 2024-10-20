@@ -1,4 +1,4 @@
-# ZynQ-Tutorial-Series
+# BRH Tutorials - Github repo
 
 This repo contains all the code you need for the toturials, ready to copy and paste
 
