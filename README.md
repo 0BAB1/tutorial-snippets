@@ -7,11 +7,13 @@ I will also link all the very interesting ressources i talk about in my videos, 
 I suggest that you go and check wikipedia for each subject you struggle with as it always offers a nice overview, which is nice to start with a right mindset.
 
 # Table of Contents
-1. [ZynQ in two minutes](#zynq-in-two-minutes)
-2. [AXI IP, Hello world & custom LED driver](#axi-ip-hello-world-custom-led-driver)
-3. [An introduction to HDLs](#introduction-to-hdls)
-4. [DMA Tutorial with an FFT IP](#dma-tutorial-fft-ip)
-5. [Quick Petalinux Example for Zynq](#quick-petalinux-example-zynq)
+1. [ZynQ in two minutes](#1--zynq-in-two-minutes)
+2. [AXI IP, Hello world & custom LED driver](#2--axi-ip-hello-world--custom-led-driver)
+3. [An introduction to HDLs](#3--an-introduction-to-hdls)
+4. [DMA Tutorial with an FFT IP](#4--dma-tuturial-with-an-fft-ip)
+5. [Quick Petalinux Example for Zynq](#5--quick-petalinux-example-for-zynq)
+8. [Python AI to FPGA](#8--python-ai-model-to-fpga)
+
 
 # 1 : ZynQ in two minutes
 
