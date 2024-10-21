@@ -6,12 +6,14 @@ To make the video as enjoyable as possible (It is not course, because I sell the
 
 ## Pre-requesites
 
+### Before listing the prerequisites...
+
 Here are the things you need to get started. If you don't know or understand something :
 - Regarding harware tools : take a look on my channel, I have basic tutorials to learn hardware project workflows
 - Regarding knowledge : Take a look at the resources below
 - Regarding docker, linux, basic stuff : do your research, internet is full of tutorials for these.
 
-### Actual pre-requesites
+### Actual prerequisites
 
 - Install [Vivado, Vitis & Vitis HLS](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-2.html), tutorial done with 2023.2 version.
 - Linux, or good mastering of your docker windows environment (please use linux).
