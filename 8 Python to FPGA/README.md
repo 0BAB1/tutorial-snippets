@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]  
 > This is a preview and this is subject to (a lot of) changes and additions during the new couple of weeks.
-> In the meantime, you can do the tutorial on your own (sit was made to be done alone so don't worry) and you can open issues and PR if you think something is off ;)
+> In the meantime, you can do the tutorial on your own (it was actually made to be done alone so don't worry) and you can open issues and PR if you think something is off ;)
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
