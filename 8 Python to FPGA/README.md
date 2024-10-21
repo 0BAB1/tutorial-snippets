@@ -1,5 +1,9 @@
 # Python to FPGA video
 
+> [!IMPORTANT]  
+> This is a preview and this is subject to (a lot of) changes and additions during the new couple of weeks.
+> In the meantime, you can do the tutorial on your own (sit was made to be done alone so don't worry) and you can open issues and PR if you think something is off ;)
+
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
 To make the video as enjoyable as possible (It is not course, because I sell the actual course to universities), I made the choice to let the viewer do its own research when it comes to the various details **BUT** you are not alone ! This README acts like a small course with all of the ressources nedded for a full understanding of what you are doing.
