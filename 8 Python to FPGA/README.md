@@ -1,7 +1,7 @@
 # Python to FPGA video
 
 > [!IMPORTANT]  
-> This is a preview and this is subject to (a lot of) changes and additions during the new couple of weeks.
+> This is a preview. This repo is subject to (a lot of) changes and additions during the new couple of weeks.
 > In the meantime, you can do the tutorial on your own (it was actually made to be done alone so don't worry) and you can open issues and PR if you think something is off ;)
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
@@ -47,7 +47,7 @@ If you have a doubt, come back to the video or use the ressources below to learn
 ### Preparing the dev environement
 
 You have the official tutorial in the resources but here are some points of attention :
-- use ```bash run-docker.sh notebook``` command and **NOT** ```bash run-docker.sh notebook```
+- use ```bash run-docker.sh notebook``` command and **NOT** ```sh run-docker.sh notebook```
 - It will give you the jupyter URL
 - If you use your notebook in VSCODE, simply :
     - Select kernel...
