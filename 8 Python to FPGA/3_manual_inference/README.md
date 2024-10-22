@@ -1,5 +1,10 @@
 # Manual inference : Bonus readme for determined people !
 
+> [!CAUTION]
+> This part is not like the others, it will be hard for you to do it 100% on your own if you are a beginner. The video you be purposefully more details on this part, use it as support to help you getting through this part !
+
+## Why manual inference ?
+
 FINN Provides a very nice runtime environement based on Pynq to run FPGA inference directly from a notebook.
 
 However, you might want to run inference on other (unsuported) FPGA boards. Given that only 2 boards are made for PYNQ and only [a few](http://www.pynq.io/boards.html) are officially supported at the moment, we will do the FPGA inference manually.
