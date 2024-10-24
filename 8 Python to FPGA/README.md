@@ -6,7 +6,7 @@
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
-### It contains a FULL TUTORIAL meant to be "DIY" in which you will be guided to deploy your own AI model on FPGA !
+> It contains a FULL TUTORIAL meant to be "DIY" in which you will be guided to deploy your own AI model on FPGA !
 
 To make the video as enjoyable as possible (It is not course, because I sell the actual course to universities), I made the choice to let the viewer do its own research when it comes to the various details **BUT** you are not alone ! This README acts like a small course with all of the ressources nedded for a full understanding of what you are doing.
 
@@ -34,14 +34,14 @@ Here are the things you need to get started. If you don't know or understand som
   - And of course, FPGAs
 - Have a FPGA board. If you have a PYNQ compatible board, you can skip the manual inference part
 
-## Let's get to work !
+## Let's get to work
 
 > Okay, so where do I start ? What do I do now ? <br> - You (maybe)
 
 Well here is how I suggest you go about this :
 
 - First, watch the first video availible [here](https://www.youtube.com/watch?v=lJa4dqdAsUM)
-- Then, watch the entire tutorial to understand what to do and identify the things you have to learn. 
+- Then, watch the entire tutorial to understand what to do and identify the things you have to learn.
 - Set up your dev environement, c.f. ressources below for the official up-to-date tutorial from FINN (fairly simple) **AND** the notes on preparing the dev environement just below this bullet list
 - After that, clone this repo and cd in this sub directory and simply follow the notebook instructions.
 
