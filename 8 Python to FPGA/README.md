@@ -1,10 +1,12 @@
-# Python to FPGA video
+# Python to FPGA video : Kickstart your FPGA AI Projects
 
 > [!IMPORTANT]  
 > This is a preview. This repo is subject to (a lot of) changes and additions during the new couple of weeks.
 > In the meantime, you can do the tutorial on your own (it was actually made to be done alone so don't worry) and you can open issues and PR if you think something is off ;)
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
+
+### It contains a FULL TUTORIAL meant to be "DIY" in which you will be guided to deploy your own AI model on FPGA !
 
 To make the video as enjoyable as possible (It is not course, because I sell the actual course to universities), I made the choice to let the viewer do its own research when it comes to the various details **BUT** you are not alone ! This README acts like a small course with all of the ressources nedded for a full understanding of what you are doing.
 
@@ -37,8 +39,7 @@ Here are the things you need to get started. If you don't know or understand som
 
 Well here is how I suggest you go about this :
 
-- First, watch the first video availible [here](https://www.youtube.com/watch?v=lJa4dqdAsUM)
-- Then, watch the entire tutorial to understand what to do and identify the things you have to learn. 
+- First, watch the entire tutorial to understand what to do and identify the things you have to learn. 
 - Set up your dev environement, c.f. ressources below for the official up-to-date tutorial from FINN (fairly simple) **AND** the notes on preparing the dev environement just below this bullet list
 - After that, clone this repo and cd in this sub directory and simply follow the notebook instructions.
 
@@ -64,11 +65,14 @@ Every notbook is in this subfolder sub dir.
 
 ### Regarding The Manual Infernce
 
-Manual inference implies you use code snippets and Xilinx tools rather than a notebook, material will be located in a dedicated sub-directory.
+Manual inference implies you use code snippets and Xilinx tools rather than a notebook, material will be located in a dedicated sub-directory. Alongside another [specialized README](./3_manual_inference/README.md) to help you figuring it out.
 
 See you on the other side !
 
-## Ressources
+## General Ressources
+
+> [!IMPORTANT]  
+> Notebooks also contains context-dependant ressources to explore and understand important topics.
 
 If you want to truly understand what you are doing and become proficient in engineering, these ressources are your go-to.
 
