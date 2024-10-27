@@ -1,7 +1,7 @@
 # Python to FPGA video : Kickstart your FPGA AI Projects
 
 > [!IMPORTANT]  
-> This is a "DIY" tutorial derived from my 9 hours course. As I cannot teach youevrythong here, you'll have access to all the ressources you need to learn. If you go from 0 (given that you have some basis on FPGA and all) I'd say this project can that a few days to comlete with a good understanding. Hop you enjoy this project, godd luck, and see you on the other side !
+> This is a "DIY" tutorial derived from my 9 hours course. As I cannot teach all the different concepts here, you'll have access to all the ressources you need to learn. If you go from 0 (given that you have some basis on FPGA and all) I'd say this project can that a few days to comlete with a good understanding. Hop you enjoy this project, godd luck, and see you on the other side !
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
