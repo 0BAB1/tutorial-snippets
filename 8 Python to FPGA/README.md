@@ -1,8 +1,7 @@
 # Python to FPGA video : Kickstart your FPGA AI Projects
 
 > [!IMPORTANT]  
-> This is a preview. This repo is subject to (a lot of) changes and additions during the new couple of weeks.
-> In the meantime, you can do the tutorial on your own (it was actually made to be done alone so don't worry) and you can open issues and PR if you think something is off ;)
+> This is a "DIY" tutorial derived from my 9 hours course. As I cannot teach youevrythong here, you'll have access to all the ressources you need to learn. If you go from 0 (given that you have some basis on FPGA and all) I'd say this project can that a few days to comlete with a good understanding. Hop you enjoy this project, godd luck, and see you on the other side !
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
@@ -10,15 +9,40 @@ This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
 To make the video as enjoyable as possible (It is not course, because I sell the actual course to universities), I made the choice to let the viewer do its own research when it comes to the various details **BUT** you are not alone ! This README acts like a small course with all of the ressources nedded for a full understanding of what you are doing.
 
+## What will you find in this repo
+
+### PART 0 : This readme
+
+The goal of this readme is to serve a "lighthouse" to which you come and go to gather ressources and tips and various stuff to complete this project at you own pace.
+
+> I recommend you read it fully before starting the PART 1.
+
+You have some explainations below on where and how to start this project.
+
+### PART 1 (Notebook) : Create and train your first QNN
+
+Using brevitas, you will empower Quantize Aware Training to create and train a classifier that you recognize samples from the FasionMNIST dataset.
+
+The notbooks will have plenty of explaination and you can you the ressources at the end of this readme to fill any hole in your understanding.
+
+### PART 2 (Notebook) : Use FINN to convert you QNN to hardware
+
+Learn how to use FINN to manipulate an ONNX graph until the said graph has been reduced to a hardware representation
+
+### PART 3 (Vivado & Vitis) : Run a simple manual inference application
+
+If you know your way around Vivado and vitis, this is a great exercice ! Create a SoC, code a firmware for the DMA and finally, get you results through UART, from a model exclusively ran on FPGA ! YOUR OWN FPGA hardware !
+
+You'll have a separate readme for PART 3, but more on that below :)
+
 ## Pre-requesites
 
-### Before listing the prerequisites...
+### Before listing the prerequisites
 
-Here are the things you need to get started. If you don't know or understand something :
+Regarding knowledge and understanding, you might not understand everything layed down here :
 
 - Regarding harware tools : take a look on my channel, I have basic tutorials to learn hardware project workflows
 - Regarding knowledge : Take a look at the resources below
-- Regarding docker, linux, basic stuff : do your research, internet is full of tutorials for these.
 
 ### Actual prerequisites
 
@@ -34,16 +58,15 @@ Here are the things you need to get started. If you don't know or understand som
   - And of course, FPGAs
 - Have a FPGA board. If you have a PYNQ compatible board, you can skip the manual inference part
 
-## Let's get to work
+## All set ? Let's get to work
 
 > Okay, so where do I start ? What do I do now ? <br> - You (maybe)
 
 Well here is how I suggest you go about this :
 
-- First, watch the first video availible [here](https://www.youtube.com/watch?v=lJa4dqdAsUM)
-- Then, watch the entire tutorial to understand what to do and identify the things you have to learn.
+- First, watch the "[tutorial](https://www.youtube.com/watch?v=VsXMlSB6Yq4)" that sumarizes what we'll do here.
 - Set up your dev environement, c.f. ressources below for the official up-to-date tutorial from FINN (fairly simple) **AND** the notes on preparing the dev environement just below this bullet list
-- After that, clone this repo and cd in this sub directory and simply follow the notebook instructions.
+- After that, clone this repo and cd in this sub directory and simply follow the notebook instructions, by starting from PART 1 obvbiously ;)
 
 If you have a doubt, come back to the video or use the ressources below to learn more about each and every points of interest.
 

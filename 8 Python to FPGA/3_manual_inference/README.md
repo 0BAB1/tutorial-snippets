@@ -39,6 +39,8 @@ During PART 2, we used FINN to generate a "stitched IP" that conviniently genera
 After PART 2, you can access the stitched IP by opinning the ```/tmp/finn_dev_yourusername``` folder, you will then find a range of output product.
 We are going to focus on the ```vivado_zynq_xxx.../``` folder and open the .xpr using vivado.
 
+**Important :** Before doing anything, go in the project settings and chage the target part/board !
+
 > For this part, the video teaser of the turial includes more details. It was meant to be useful ! don't hesitate to go back to the video on part 3 to see where was my output model from PART2, how i found it and how I preped the vivado project.
 
 ## 1 : Create our own "glue logic" IP to interface between the model and Xilinx's DMA IP
