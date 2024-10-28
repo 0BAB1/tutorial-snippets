@@ -1,7 +1,7 @@
 # Manual inference : A bonus sub-tutorial
 
 > [!CAUTION]
-> This part is not like the others, it will be hard for you to do it 100% on your own if you are a beginner. The video will contain more on this part, use it as support to help you getting through this part ! I also expect the reader to have some knowledge ith xilinx tools. If you are a complete beginner, check the ressource from the [main readme](../README.md) for some of my video or directly go on my channel to check for videos.
+> This part is not like the others, it will be hard for you to do it 100% on your own if you are a beginner. The video will contain more details on this part (and include a bit of debugging insights). Use the video as support to help you getting through this part ! I also expect the reader to have some knowledge ith xilinx tools. If you are a complete beginner, check the ressource from the [main readme](../README.md) for some of my video or directly go on my channel to check for my early tutorials.
 
 ## Why manual inference ?
 
