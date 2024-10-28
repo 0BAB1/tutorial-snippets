@@ -66,10 +66,10 @@ The end custom system should then look like this :
 ![Final system image](./final_custom_system.png)
 
 > [!CAUTION]
-> As you saw in the video, so weird stuff happens when you configure the custom FIFO data width to 32 bits to match the one of DMA. I'll have to figure it out but a great way to get around this.
+> As you saw in the video, some weird stuff happens when you configure the custom FIFO data width to 32 bits to match the one of DMA. Here's a good way to get around this : 
 > this consits in not changing the default 8bits data width of the fifo and letting the DMA operate in 32 its with memory.
 > To avoid mismatch between the 8bits fifo and the 32bits dma interfaces, we connect them manually using constants and concat blocks, this process is
-> described in the video. Depending on how boring it is, I might do a separate, not reference video, in which case i will post the link here : **link not availible yet**
+> described in the video.
 
 **ANYWAY**, here are the working configs used in the tutorial at the end with the concat and const manual connections :
 
