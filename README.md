@@ -1,5 +1,8 @@
 # BRH Tutorials - Github repo
 
+> [!TIP]
+> Contributions are welcome ! Especially since I'm prone to mistakes ;)
+
 This repo contains all the code you need for the toturials, ready to copy and paste
 
 I will also link all the very interesting ressources i talk about in my videos, but also interresting exercices you can do to practice at your own pace.
