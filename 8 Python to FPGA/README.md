@@ -1,19 +1,19 @@
 # Python to FPGA video : Kickstart your FPGA AI Projects
 
 > [!IMPORTANT]  
-> This is a "DIY" tutorial derived from my 9 hours course. As I cannot teach all the different concepts here, you'll have access to all the ressources you need to learn. If you go from 0 (given that you have some basis on FPGA and all) I'd say this project can that a few days to comlete with a good understanding. Hop you enjoy this project, godd luck, and see you on the other side !
+> This is a "DIY" tutorial derived from my 9 hours course. As I cannot teach all the different concepts here, you'll have access to all the resources you need to learn. If you go from 0 (given that you have some basis on FPGA and all) I'd say this project can that a few days to comlete with a good understanding. Hop you enjoy this project, godd luck, and see you on the other side !
 
 This folder contains EVERYTHING you need to kickstart your FPGA AI projects.
 
 > It contains a FULL TUTORIAL meant to be "DIY" in which you will be guided to deploy your own AI model on FPGA !
 
-To make the video as enjoyable as possible (It is not course, because I sell the actual course to universities), I made the choice to let the viewer do its own research when it comes to the various details **BUT** you are not alone ! This README acts like a small course with all of the ressources nedded for a full understanding of what you are doing.
+To make the video as enjoyable as possible (It is not course, because I sell the actual course to universities), I made the choice to let the viewer do its own research when it comes to the various details **BUT** you are not alone ! This README acts like a small course with all of the resources nedded for a full understanding of what you are doing.
 
 ## What will you find in this repo
 
 ### PART 0 : This readme
 
-The goal of this readme is to serve a "lighthouse" to which you come and go to gather ressources and tips and various stuff to complete this project at you own pace.
+The goal of this readme is to serve a "lighthouse" to which you come and go to gather resources and tips and various stuff to complete this project at you own pace.
 
 > I recommend you read it fully before starting the PART 1.
 
@@ -23,7 +23,7 @@ You have some explainations below on where and how to start this project.
 
 Using brevitas, you will empower Quantize Aware Training to create and train a classifier that you recognize samples from the FasionMNIST dataset.
 
-The notbooks will have plenty of explaination and you can you the ressources at the end of this readme to fill any hole in your understanding.
+The notbooks will have plenty of explaination and you can you the resources at the end of this readme to fill any hole in your understanding.
 
 ### PART 2 (Notebook) : Use FINN to convert you QNN to hardware
 
@@ -65,10 +65,10 @@ Regarding knowledge and understanding, you might not understand everything layed
 Well here is how I suggest you go about this :
 
 - First, watch the "[tutorial](https://www.youtube.com/watch?v=VsXMlSB6Yq4)" that sumarizes what we'll do here.
-- Set up your dev environement, c.f. ressources below for the official up-to-date tutorial from FINN (fairly simple) **AND** the notes on preparing the dev environement just below this bullet list
+- Set up your dev environement, c.f. resources below for the official up-to-date tutorial from FINN (fairly simple) **AND** the notes on preparing the dev environement just below this bullet list
 - After that, clone this repo and cd in this sub directory and simply follow the notebook instructions, by starting from PART 1 obvbiously ;)
 
-If you have a doubt, come back to the video or use the ressources below to learn more about each and every points of interest.
+If you have a doubt, come back to the video or use the resources below to learn more about each and every points of interest.
 
 ### Preparing the dev environement
 
@@ -94,14 +94,14 @@ Manual inference implies you use code snippets and Xilinx tools rather than a no
 
 See you on the other side !
 
-## General Ressources
+## General resources
 
 > [!IMPORTANT]  
-> Notebooks also contains context-dependant ressources to explore and understand important topics.
+> Notebooks also contains context-dependant resources to explore and understand important topics.
 
-If you want to truly understand what you are doing and become proficient in engineering, these ressources are your go-to.
+If you want to truly understand what you are doing and become proficient in engineering, these resources are your go-to.
 
-I personnally used ALL of these ressources, so I will anotate some tips with each one so you don't have to waste time on less valuable knowledge.
+I personnally used ALL of these resources, so I will anotate some tips with each one so you don't have to waste time on less valuable knowledge.
 
 | Resource name                                   | Link                                                                                                    | Comment                                                                                                                                                                                                                                       |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
