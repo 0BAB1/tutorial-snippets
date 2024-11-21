@@ -1,15 +1,19 @@
-# BRH Tutorials - Github repo
+# BRH Tutorials - Code Github repo
 
 > [!TIP]
-> Contributions are welcome ! Especially since I'm prone to mistakes ;)
+> Contributions are welcome ! Especially since I'm prone to mistakes ;) You can also check out the [blog](https://0bab1.github.io/BRH/) where you have additional informations for each tutorial, *but also exclusive content related to engineering in general and bonus tutorials to learn more valuable stuff on a text format*.
 
-This repo contains all the code you need for the toturials, ready to copy and paste
+This repo contains **all the code you need** for the tutorials, ready to copy and paste.
 
-I will also link all the very interesting ressources i talk about in my videos, but also interresting exercices you can do to practice at your own pace.
+It also contains **links to the associated [blog posts](https://0bab1.github.io/BRH/)** where you'll find additional tips & resources if you want to do it yourself or push the concepts I discuss a bit further.
 
-I suggest that you go and check wikipedia for each subject you struggle with as it always offers a nice overview, which is nice to start with a right mindset.
+I will also link all the very interesting ressources that helped me in my own learning journey for the curious among you.
+
+> [!TIP]
+> In the future, I will focus more on "Project reviews" on youtube and post actual technical tutorials here and on the blog. Stay tuned !
 
 # Table of Contents
+
 1. [ZynQ in two minutes](#1--zynq-in-two-minutes)
 2. [AXI IP, Hello world & custom LED driver](#2--axi-ip-hello-world--custom-led-driver)
 3. [An introduction to HDLs](#3--an-introduction-to-hdls)
@@ -28,11 +32,9 @@ This video is all about clarifying what ZynQ is and how it use FPGAs at its adva
 
 There is no code necessary for this video
 
-## Ressources
+## Blog post
 
-I really suggest your read "the Zynq book" for more informations :
-
-- [Zynq book PDF](https://is.muni.cz/el/1433/jaro2015/PV191/um/The_Zynq_Book_ebook.pdf)
+Find the blog post [here](https://0bab1.github.io/BRH/posts/Zynq_in_120s/)
 
 # 2 : AXI IP, Hello world & custom LED driver
 
@@ -48,11 +50,9 @@ In the video's directory you will find:
 - Constraint file to "link" the IP's output to the LED's pin
 - The main.c file for the sofware part
 
-## Ressources
+## Blog post
 
-- [Xilinx AXI VIP as a master to verify your IP](https://support.xilinx.com/s/article/1058302?language=en_US)
-- [Xilinx AXI VIP, use it for your projects & access testbenches](https://www.xilinx.com/video/hardware/how-to-use-axi-verification-ip-to-verify-debug-design-using-simulation.html)
-- [A reddit post I made when I was stuggling on AXI](https://www.reddit.com/r/FPGA/comments/1dbtp6r/problems_implementing_basic_ips_on_axi_lite/)
+Find the blog post [here](https://0bab1.github.io/BRH/posts/Axi_led_ip/)
 
 # 3 : An introduction to HDLs
 
@@ -62,11 +62,11 @@ In the video's directory you will find:
 
 In the video's directory you will find:
 
-- just the basic hdl and constraints so you have a basic template
+- just the basic hdl and constraints so you have a basic template, nothing fancy
 
-## Ressources
+## Blog post
 
-- [F4PGA : Some open source stuff do do synthesis](https://f4pga.org/)
+Find the blog post [here](https://0bab1.github.io/BRH/posts/HDL_in_120s/)
 
 # 4 : DMA Tuturial with an FFT IP
 
@@ -78,11 +78,11 @@ In the video's directory you will find:
 
 - dma_fft.c : The main file that I took you through during the video
 
-IMPORTANT NOTE : do not use xil_printf() but rather printf() to handle the display of floats correctly.
+**IMPORTANT NOTE :** do not use xil_printf() but rather printf() to handle the display of floats correctly.
 
-## Ressources
+## Blog post
 
-- [Video inspired by this LAB, I strongly recommend you check out the others (even tho the sound quality is not great)](https://www.youtube.com/watch?v=6OU0ASEIUJg)
+Find the blog post [here](https://0bab1.github.io/BRH/posts/DMA_FFT_ON_ZYNQ/)
 
 # 5 : Quick Petalinux Example for Zynq
 
@@ -94,11 +94,13 @@ Summer is here ! Lighthearted video, more or less entertainement but keeping in 
 
 In the video's directory you will find:
 
-- commands.sh : a file NOT FOR EXECUTION with a list of the commands alongside some tips
+- commands.sh : a file (*NOT MEANT FOR EXECUTION*) with a list of the commands alongside some tips
 
 IMPORTANT NOTE : do not use xil_printf() but rather printf() to handle the display of floats correctly.
 
-## Ressources
+## Blog Post
+
+There is no blog post for this one, but here are some resources :
 
 - [Learn a LOT more on Linux for embedded application and FPGA on the Zynq book PDF (from page 385 chapter 22 to chapter 24)](https://is.muni.cz/el/1433/jaro2015/PV191/um/The_Zynq_Book_ebook.pdf)
 - [Download Petalinux Here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html)
@@ -123,8 +125,10 @@ In the video's directory you will find:
 
 - ALL THE RESSOURCES
 
-> This video is a big one, It has it's own [Readme file](./8%20Python%20to%20FPGA//README.md). See you there guys !
+> This video is a big one, It has its own [Readme file](./8%20Python%20to%20FPGA//README.md). See you there !
 
-## Ressources
+## Resources & Blog Post
 
 C.f. the [Readme file](./8%20Python%20to%20FPGA//README.md).
+
+You can also find the blog post [here](https://0bab1.github.io/BRH/posts/PY2FPGA/) for building the model's IP using FINN and [here](https://0bab1.github.io/BRH/posts/FPGA_MANUAL_INFERENCE/) to run manual inference on Zynq.
