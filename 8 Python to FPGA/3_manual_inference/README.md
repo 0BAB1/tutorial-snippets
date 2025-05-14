@@ -75,6 +75,12 @@ The end custom system should then look like this :
 
 ![image of the working hacky system](hack_bug.png)
 
+Edit :
+
+- The TKEEP const block is there to tell DMA what byte is valid. As we send 8 bit data, only th 1st byte is valid so set it to 0b001
+- And the 24buts const blocks are 0s, its just to fill the gap between the 8 bits we send and the 32 bits required to avoid side effects.
+- Don't forget to ensure the concat block put your 8 bits at the end of the 32 bits !
+
 And the fianl DMA config :
 
 ![final dma config that worked for me](working_dma_config.png)
