@@ -145,5 +145,5 @@ You'll still find rich commented verilog snippets in this repo.
 
 ## Code
 
-[Readme file](https://github.com/0BAB1/tutorial-snippets/blob/main/13%20Beginners%20FPGA%20projects/readme.md)
+[Readme file](https://github.com/0BAB1/tutorial-snippets/tree/main/13%20Beginners%20FPGA%20projects)
 
