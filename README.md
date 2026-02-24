@@ -128,6 +128,13 @@ In the video's directory you will find:
 
 > This video is a big one, It has its own [Readme file](./8%20Python%20to%20FPGA//README.md). See you there !
 
+## Resources & Blog Post
+
+C.f. the [Readme file](./8%20Python%20to%20FPGA//README.md).
+
+You can also find the blog post [here](https://0bab1.github.io/BRH/posts/PY2FPGA/) for building the model's IP using FINN and [here](https://0bab1.github.io/BRH/posts/FPGA_MANUAL_INFERENCE/) to run manual inference on Zynq.
+
+
 # 13 : Testing Typical FPGA Beginers Projects
 
 Note this video is not really a tutorial on its own but rather a way for you to have an overview of what it's like to work on FPGA and you'll also be able to know if typical FPGA projects are at your level and worth your time.
@@ -140,8 +147,3 @@ You'll still find rich commented verilog snippets in this repo.
 
 [Readme file](https://github.com/0BAB1/tutorial-snippets/blob/main/13%20Beginners%20FPGA%20projects/readme.md)
 
-## Resources & Blog Post
-
-C.f. the [Readme file](./8%20Python%20to%20FPGA//README.md).
-
-You can also find the blog post [here](https://0bab1.github.io/BRH/posts/PY2FPGA/) for building the model's IP using FINN and [here](https://0bab1.github.io/BRH/posts/FPGA_MANUAL_INFERENCE/) to run manual inference on Zynq.
