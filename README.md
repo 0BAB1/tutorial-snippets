@@ -20,6 +20,7 @@ I will also link all the very interesting ressources that helped me in my own le
 4. [DMA Tutorial with an FFT IP](#4--dma-tuturial-with-an-fft-ip)
 5. [Quick Petalinux Example for Zynq](#5--quick-petalinux-example-for-zynq)
 8. [Python AI to FPGA](#8--python-ai-model-to-fpga)
+13. [Typical FPGA Beginers projects (Blink to VGA PONG)](#13--Testing-Typical-FPGA-Beginers-Projects)
 
 
 # 1 : ZynQ in two minutes
@@ -126,6 +127,18 @@ In the video's directory you will find:
 - ALL THE RESSOURCES
 
 > This video is a big one, It has its own [Readme file](./8%20Python%20to%20FPGA//README.md). See you there !
+
+# 13 : Testing Typical FPGA Beginers Projects
+
+Note this video is not really a tutorial on its own but rather a way for you to have an overview of what it's like to work on FPGA and you'll also be able to know if typical FPGA projects are at your level and worth your time.
+
+[Video](https://www.youtube.com/@BRH_SoC)
+
+You'll still find rich commented verilog snippets in this repo.
+
+## Code
+
+[Readme file](https://github.com/0BAB1/tutorial-snippets/blob/main/13%20Beginners%20FPGA%20projects/readme.md)
 
 ## Resources & Blog Post
 
