@@ -1,3 +1,15 @@
+/*
+* This programs intits & polls LIS2DH12 accelerometer for acceleration data on the PCB via I2C.
+* I then sends it to the host via UART, which passes thourgh USBC cable thanks to CH340E USB<=>UART converter.
+* You can open a tty uart termnal on the usb connection to vsualize raw text sensor data OR use the python pareser
+* in this repo for 3D vector visualisation.
+*
+* Build it using CCStudio, in a well configured project environement. No compiling toolchain is provided here.
+* Refer to the youtube video for more infos
+* 
+* BRH 2026
+*/
+
 #include "ti_msp_dl_config.h"
 #include "ti/driverlib/dl_uart.h"
 #include <stdio.h>
